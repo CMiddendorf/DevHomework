@@ -1,0 +1,16 @@
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.exe
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.deps.json
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.runtimeconfig.json
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.runtimeconfig.dev.json
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.dll
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\ref\DevHomework.dll
+C:\Users\Inani\source\repos\DevHomework\DevHomework\bin\Debug\net5.0\DevHomework.pdb
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.csprojAssemblyReference.cache
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.AssemblyInfoInputs.cache
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.AssemblyInfo.cs
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.csproj.CoreCompileInputs.cache
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.dll
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\ref\DevHomework.dll
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.pdb
+C:\Users\Inani\source\repos\DevHomework\DevHomework\obj\Debug\net5.0\DevHomework.genruntimeconfig.cache
